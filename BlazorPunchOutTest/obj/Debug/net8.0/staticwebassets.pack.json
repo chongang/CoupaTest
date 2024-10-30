@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\u183155\\source\\repos\\BlazorPunchOutTest\\BlazorPunchOutTest\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorPunchOutTest.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazorPunchOutTest.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\u183155\\source\\repos\\BlazorPunchOutTest\\BlazorPunchOutTest\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\u183155\\source\\repos\\BlazorPunchOutTest\\BlazorPunchOutTest\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\u183155\\source\\repos\\BlazorPunchOutTest\\BlazorPunchOutTest\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\u183155\\source\\repos\\BlazorPunchOutTest\\BlazorPunchOutTest\\wwwroot\\cookie.js",
+      "PackagePath": "staticwebassets\\cookie.js"
+    },
+    {
+      "Id": "C:\\Users\\u183155\\source\\repos\\BlazorPunchOutTest\\BlazorPunchOutTest\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorPunchOutTest.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorPunchOutTest.props",
+      "PackagePath": "build\\BlazorPunchOutTest.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorPunchOutTest.props",
+      "PackagePath": "buildMultiTargeting\\BlazorPunchOutTest.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorPunchOutTest.props",
+      "PackagePath": "buildTransitive\\BlazorPunchOutTest.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,33 @@
+﻿ 
+@rendermode InteractiveServer
+@using BlazorPunchOutTest.Controllers;
+@page "/cookie-example"
+@inject CookieService CookieService
+
+<h3>Cookie Example</h3>
+
+<button @onclick="SetCookie">Set Cookie</button>
+<button @onclick="GetCookie">Get Cookie</button>
+<button @onclick="DeleteCookie">Delete Cookie</button>
+
+<p>@cookieValue</p>
+
+@code {
+    private string cookieValue;
+
+    private async Task SetCookie()
+    {
+        await CookieService.SetCookieAsync("myCookie", "cookieValue", 7);
+    }
+
+    private async Task GetCookie()
+    {
+        cookieValue = await CookieService.GetCookieAsync("myCookie");
+    }
+
+    private async Task DeleteCookie()
+    {
+        await CookieService.DeleteCookieAsync("myCookie");
+        cookieValue = "Cookie deleted.";
+    }
+}

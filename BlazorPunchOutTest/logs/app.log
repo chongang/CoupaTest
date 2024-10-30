@@ -1,0 +1,35 @@
+10/28/2024 7:02:16 AM: <?xml version="1.0" encoding="UTF-8"?>
+    <!DOCTYPE cXML SYSTEM "http://xml.cxml.org/schemas/cXML/1.2.041/cXML.dtd">
+    <cXML payloadID="c53a39e9-c3f9-4f54-aa24-6fb63b66768bmatthewchardin.ang.ca@mhi.com" timestamp="2024-10-28T07:02:12+00:00">
+      <Header>
+        <From>
+          <Credential domain="NetworkId">
+            <Identity>iproc_mhi_test</Identity>
+          </Credential>
+        </From>
+        <To>
+          <Credential domain="DUNS">
+            <Identity>659173665</Identity>
+          </Credential>
+        </To>
+        <Sender>
+          <Credential domain="NetworkId">
+            <Identity>iproc_mhi_test</Identity>
+            <SharedSecret>mhiiproc</SharedSecret>
+          </Credential>
+          <UserAgent>PunchOutCommerce PunchOut Tester</UserAgent>
+        </Sender>
+      </Header>
+      <Request deploymentMode="test">
+        <PunchOutSetupRequest operation="create">
+          <BuyerCookie>0be3b30e-5486-43f8-a0b5-b664c9c0ea04</BuyerCookie>
+          <Extrinsic name="User">matthewchardin.ang.ca@mhi.com</Extrinsic>
+          <Extrinsic name="UniqueUsername">matthewchardin.ang.ca@mhi.com</Extrinsic>
+          <Extrinsic name="UserEmail">matthewchardin.ang.ca@mhi.com</Extrinsic>
+          <BrowserFormPost>
+            <URL>https://mssa-test.coupahost.com/punchout/checkout?id=64</URL>
+          </BrowserFormPost>
+        </PunchOutSetupRequest>
+      </Request>
+    </cXML>
+    

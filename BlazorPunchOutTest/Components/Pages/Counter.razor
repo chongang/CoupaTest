@@ -1,0 +1,32 @@
+﻿@page "/mock-supplier-home-page"
+@using BlazorPunchOutTest.Controllers;
+@inject IHttpContextAccessor context;
+@inject HttpClient Http;
+
+@rendermode InteractiveServer
+
+<h3>User Label</h3>
+<p>Hello, @UserName</p>
+
+
+@code {
+    private string UserName { get => GetUserName();}
+
+    private string GetUserName()
+    {
+        var response = Http.GetAsync("https://localhost:7154/Mock-Supplier-API/checkcookie").Result;
+        string resultMessage;
+        if (response.IsSuccessStatusCode)
+        {
+            var content =  response.Content.ReadAsStringAsync().Result;
+            resultMessage = content; // Cookie found message
+        }
+        else
+        {
+            resultMessage = "Cookie not found.";
+        }
+        var sss = context.HttpContext.Request.Cookies["userEmail"];
+        return context.HttpContext.Request.Cookies["userEmail"];
+        
+    }
+}

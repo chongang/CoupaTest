@@ -1,0 +1,8 @@
+C:\Users\u183155\source\repos\BlazorPunchOutTest\BlazorPunchOutTest\obj\Release\net8.0\PubTmp\Out\BlazorPunchOutTest.exe
+C:\Users\u183155\source\repos\BlazorPunchOutTest\BlazorPunchOutTest\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\u183155\source\repos\BlazorPunchOutTest\BlazorPunchOutTest\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\u183155\source\repos\BlazorPunchOutTest\BlazorPunchOutTest\obj\Release\net8.0\PubTmp\Out\BlazorPunchOutTest.dll
+C:\Users\u183155\source\repos\BlazorPunchOutTest\BlazorPunchOutTest\obj\Release\net8.0\PubTmp\Out\BlazorPunchOutTest.deps.json
+C:\Users\u183155\source\repos\BlazorPunchOutTest\BlazorPunchOutTest\obj\Release\net8.0\PubTmp\Out\BlazorPunchOutTest.runtimeconfig.json
+C:\Users\u183155\source\repos\BlazorPunchOutTest\BlazorPunchOutTest\obj\Release\net8.0\PubTmp\Out\BlazorPunchOutTest.pdb
+C:\Users\u183155\source\repos\BlazorPunchOutTest\BlazorPunchOutTest\obj\Release\net8.0\PubTmp\Out\RestSharp.dll

@@ -1,0 +1,285 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\u183155\\source\\repos\\BlazorPunchOutTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B89F7F3-1F55-48B5-A9CE-4F42AB9EF73D}|BlazorPunchOutTest\\BlazorPunchOutTest.csproj|c:\\users\\u183155\\source\\repos\\blazorpunchouttest\\blazorpunchouttest\\controllers\\mocksupplierapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B89F7F3-1F55-48B5-A9CE-4F42AB9EF73D}|BlazorPunchOutTest\\BlazorPunchOutTest.csproj|solutionrelative:blazorpunchouttest\\controllers\\mocksupplierapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B89F7F3-1F55-48B5-A9CE-4F42AB9EF73D}|BlazorPunchOutTest\\BlazorPunchOutTest.csproj|c:\\users\\u183155\\source\\repos\\blazorpunchouttest\\blazorpunchouttest\\components\\pages\\cookie-example.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B89F7F3-1F55-48B5-A9CE-4F42AB9EF73D}|BlazorPunchOutTest\\BlazorPunchOutTest.csproj|solutionrelative:blazorpunchouttest\\components\\pages\\cookie-example.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B89F7F3-1F55-48B5-A9CE-4F42AB9EF73D}|BlazorPunchOutTest\\BlazorPunchOutTest.csproj|c:\\users\\u183155\\source\\repos\\blazorpunchouttest\\blazorpunchouttest\\controllers\\cookieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B89F7F3-1F55-48B5-A9CE-4F42AB9EF73D}|BlazorPunchOutTest\\BlazorPunchOutTest.csproj|solutionrelative:blazorpunchouttest\\controllers\\cookieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B89F7F3-1F55-48B5-A9CE-4F42AB9EF73D}|BlazorPunchOutTest\\BlazorPunchOutTest.csproj|c:\\users\\u183155\\source\\repos\\blazorpunchouttest\\blazorpunchouttest\\models\\cxmlresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B89F7F3-1F55-48B5-A9CE-4F42AB9EF73D}|BlazorPunchOutTest\\BlazorPunchOutTest.csproj|solutionrelative:blazorpunchouttest\\models\\cxmlresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B89F7F3-1F55-48B5-A9CE-4F42AB9EF73D}|BlazorPunchOutTest\\BlazorPunchOutTest.csproj|c:\\users\\u183155\\source\\repos\\blazorpunchouttest\\blazorpunchouttest\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B89F7F3-1F55-48B5-A9CE-4F42AB9EF73D}|BlazorPunchOutTest\\BlazorPunchOutTest.csproj|solutionrelative:blazorpunchouttest\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B89F7F3-1F55-48B5-A9CE-4F42AB9EF73D}|BlazorPunchOutTest\\BlazorPunchOutTest.csproj|c:\\users\\u183155\\source\\repos\\blazorpunchouttest\\blazorpunchouttest\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B89F7F3-1F55-48B5-A9CE-4F42AB9EF73D}|BlazorPunchOutTest\\BlazorPunchOutTest.csproj|solutionrelative:blazorpunchouttest\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B89F7F3-1F55-48B5-A9CE-4F42AB9EF73D}|BlazorPunchOutTest\\BlazorPunchOutTest.csproj|c:\\users\\u183155\\source\\repos\\blazorpunchouttest\\blazorpunchouttest\\wwwroot\\cookie.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5B89F7F3-1F55-48B5-A9CE-4F42AB9EF73D}|BlazorPunchOutTest\\BlazorPunchOutTest.csproj|solutionrelative:blazorpunchouttest\\wwwroot\\cookie.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B89F7F3-1F55-48B5-A9CE-4F42AB9EF73D}|BlazorPunchOutTest\\BlazorPunchOutTest.csproj|c:\\users\\u183155\\source\\repos\\blazorpunchouttest\\blazorpunchouttest\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B89F7F3-1F55-48B5-A9CE-4F42AB9EF73D}|BlazorPunchOutTest\\BlazorPunchOutTest.csproj|solutionrelative:blazorpunchouttest\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B89F7F3-1F55-48B5-A9CE-4F42AB9EF73D}|BlazorPunchOutTest\\BlazorPunchOutTest.csproj|c:\\users\\u183155\\source\\repos\\blazorpunchouttest\\blazorpunchouttest\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B89F7F3-1F55-48B5-A9CE-4F42AB9EF73D}|BlazorPunchOutTest\\BlazorPunchOutTest.csproj|solutionrelative:blazorpunchouttest\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B89F7F3-1F55-48B5-A9CE-4F42AB9EF73D}|BlazorPunchOutTest\\BlazorPunchOutTest.csproj|c:\\users\\u183155\\source\\repos\\blazorpunchouttest\\blazorpunchouttest\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B89F7F3-1F55-48B5-A9CE-4F42AB9EF73D}|BlazorPunchOutTest\\BlazorPunchOutTest.csproj|solutionrelative:blazorpunchouttest\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B89F7F3-1F55-48B5-A9CE-4F42AB9EF73D}|BlazorPunchOutTest\\BlazorPunchOutTest.csproj|c:\\users\\u183155\\source\\repos\\blazorpunchouttest\\blazorpunchouttest\\models\\fileloggingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B89F7F3-1F55-48B5-A9CE-4F42AB9EF73D}|BlazorPunchOutTest\\BlazorPunchOutTest.csproj|solutionrelative:blazorpunchouttest\\models\\fileloggingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B89F7F3-1F55-48B5-A9CE-4F42AB9EF73D}|BlazorPunchOutTest\\BlazorPunchOutTest.csproj|c:\\users\\u183155\\source\\repos\\blazorpunchouttest\\blazorpunchouttest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B89F7F3-1F55-48B5-A9CE-4F42AB9EF73D}|BlazorPunchOutTest\\BlazorPunchOutTest.csproj|solutionrelative:blazorpunchouttest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B89F7F3-1F55-48B5-A9CE-4F42AB9EF73D}|BlazorPunchOutTest\\BlazorPunchOutTest.csproj|c:\\users\\u183155\\source\\repos\\blazorpunchouttest\\blazorpunchouttest\\models\\cxmlmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B89F7F3-1F55-48B5-A9CE-4F42AB9EF73D}|BlazorPunchOutTest\\BlazorPunchOutTest.csproj|solutionrelative:blazorpunchouttest\\models\\cxmlmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B89F7F3-1F55-48B5-A9CE-4F42AB9EF73D}|BlazorPunchOutTest\\BlazorPunchOutTest.csproj|c:\\users\\u183155\\source\\repos\\blazorpunchouttest\\blazorpunchouttest\\blazorpunchouttest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5B89F7F3-1F55-48B5-A9CE-4F42AB9EF73D}|BlazorPunchOutTest\\BlazorPunchOutTest.csproj|solutionrelative:blazorpunchouttest\\blazorpunchouttest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B89F7F3-1F55-48B5-A9CE-4F42AB9EF73D}|BlazorPunchOutTest\\BlazorPunchOutTest.csproj|c:\\users\\u183155\\source\\repos\\blazorpunchouttest\\blazorpunchouttest\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B89F7F3-1F55-48B5-A9CE-4F42AB9EF73D}|BlazorPunchOutTest\\BlazorPunchOutTest.csproj|solutionrelative:blazorpunchouttest\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "cookie.js",
+              "DocumentMoniker": "C:\\Users\\u183155\\source\\repos\\BlazorPunchOutTest\\BlazorPunchOutTest\\wwwroot\\cookie.js",
+              "RelativeDocumentMoniker": "BlazorPunchOutTest\\wwwroot\\cookie.js",
+              "ToolTip": "C:\\Users\\u183155\\source\\repos\\BlazorPunchOutTest\\BlazorPunchOutTest\\wwwroot\\cookie.js",
+              "RelativeToolTip": "BlazorPunchOutTest\\wwwroot\\cookie.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-28T07:18:15.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\u183155\\source\\repos\\BlazorPunchOutTest\\BlazorPunchOutTest\\Components\\App.razor",
+              "RelativeDocumentMoniker": "BlazorPunchOutTest\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\u183155\\source\\repos\\BlazorPunchOutTest\\BlazorPunchOutTest\\Components\\App.razor",
+              "RelativeToolTip": "BlazorPunchOutTest\\Components\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T07:16:29.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\u183155\\source\\repos\\BlazorPunchOutTest\\BlazorPunchOutTest\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "BlazorPunchOutTest\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\u183155\\source\\repos\\BlazorPunchOutTest\\BlazorPunchOutTest\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "BlazorPunchOutTest\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T07:16:22.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\u183155\\source\\repos\\BlazorPunchOutTest\\BlazorPunchOutTest\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "BlazorPunchOutTest\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\u183155\\source\\repos\\BlazorPunchOutTest\\BlazorPunchOutTest\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "BlazorPunchOutTest\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T07:16:19.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cookie-example.razor",
+              "DocumentMoniker": "C:\\Users\\u183155\\source\\repos\\BlazorPunchOutTest\\BlazorPunchOutTest\\Components\\Pages\\Cookie-example.razor",
+              "RelativeDocumentMoniker": "BlazorPunchOutTest\\Components\\Pages\\Cookie-example.razor",
+              "ToolTip": "C:\\Users\\u183155\\source\\repos\\BlazorPunchOutTest\\BlazorPunchOutTest\\Components\\Pages\\Cookie-example.razor",
+              "RelativeToolTip": "BlazorPunchOutTest\\Components\\Pages\\Cookie-example.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T07:12:04.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FileLoggingService.cs",
+              "DocumentMoniker": "C:\\Users\\u183155\\source\\repos\\BlazorPunchOutTest\\BlazorPunchOutTest\\Models\\FileLoggingService.cs",
+              "RelativeDocumentMoniker": "BlazorPunchOutTest\\Models\\FileLoggingService.cs",
+              "ToolTip": "C:\\Users\\u183155\\source\\repos\\BlazorPunchOutTest\\BlazorPunchOutTest\\Models\\FileLoggingService.cs",
+              "RelativeToolTip": "BlazorPunchOutTest\\Models\\FileLoggingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:59:59.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CookieService.cs",
+              "DocumentMoniker": "C:\\Users\\u183155\\source\\repos\\BlazorPunchOutTest\\BlazorPunchOutTest\\Controllers\\CookieService.cs",
+              "RelativeDocumentMoniker": "BlazorPunchOutTest\\Controllers\\CookieService.cs",
+              "ToolTip": "C:\\Users\\u183155\\source\\repos\\BlazorPunchOutTest\\BlazorPunchOutTest\\Controllers\\CookieService.cs",
+              "RelativeToolTip": "BlazorPunchOutTest\\Controllers\\CookieService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:34:25.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CXMLResponse.cs",
+              "DocumentMoniker": "C:\\Users\\u183155\\source\\repos\\BlazorPunchOutTest\\BlazorPunchOutTest\\Models\\CXMLResponse.cs",
+              "RelativeDocumentMoniker": "BlazorPunchOutTest\\Models\\CXMLResponse.cs",
+              "ToolTip": "C:\\Users\\u183155\\source\\repos\\BlazorPunchOutTest\\BlazorPunchOutTest\\Models\\CXMLResponse.cs",
+              "RelativeToolTip": "BlazorPunchOutTest\\Models\\CXMLResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T03:21:32.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CXMLModel.cs",
+              "DocumentMoniker": "C:\\Users\\u183155\\source\\repos\\BlazorPunchOutTest\\BlazorPunchOutTest\\Models\\CXMLModel.cs",
+              "RelativeDocumentMoniker": "BlazorPunchOutTest\\Models\\CXMLModel.cs",
+              "ToolTip": "C:\\Users\\u183155\\source\\repos\\BlazorPunchOutTest\\BlazorPunchOutTest\\Models\\CXMLModel.cs",
+              "RelativeToolTip": "BlazorPunchOutTest\\Models\\CXMLModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T09:12:23.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MockSupplierAPI.cs",
+              "DocumentMoniker": "C:\\Users\\u183155\\source\\repos\\BlazorPunchOutTest\\BlazorPunchOutTest\\Controllers\\MockSupplierAPI.cs",
+              "RelativeDocumentMoniker": "BlazorPunchOutTest\\Controllers\\MockSupplierAPI.cs",
+              "ToolTip": "C:\\Users\\u183155\\source\\repos\\BlazorPunchOutTest\\BlazorPunchOutTest\\Controllers\\MockSupplierAPI.cs",
+              "RelativeToolTip": "BlazorPunchOutTest\\Controllers\\MockSupplierAPI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T08:08:37.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\u183155\\source\\repos\\BlazorPunchOutTest\\BlazorPunchOutTest\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "BlazorPunchOutTest\\Components\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\u183155\\source\\repos\\BlazorPunchOutTest\\BlazorPunchOutTest\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "BlazorPunchOutTest\\Components\\Pages\\Weather.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T07:55:41.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\u183155\\source\\repos\\BlazorPunchOutTest\\BlazorPunchOutTest\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorPunchOutTest\\Program.cs",
+              "ToolTip": "C:\\Users\\u183155\\source\\repos\\BlazorPunchOutTest\\BlazorPunchOutTest\\Program.cs",
+              "RelativeToolTip": "BlazorPunchOutTest\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T07:45:59.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BlazorPunchOutTest.csproj",
+              "DocumentMoniker": "C:\\Users\\u183155\\source\\repos\\BlazorPunchOutTest\\BlazorPunchOutTest\\BlazorPunchOutTest.csproj",
+              "RelativeDocumentMoniker": "BlazorPunchOutTest\\BlazorPunchOutTest.csproj",
+              "ToolTip": "C:\\Users\\u183155\\source\\repos\\BlazorPunchOutTest\\BlazorPunchOutTest\\BlazorPunchOutTest.csproj",
+              "RelativeToolTip": "BlazorPunchOutTest\\BlazorPunchOutTest.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-25T07:41:45.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\u183155\\source\\repos\\BlazorPunchOutTest\\BlazorPunchOutTest\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "BlazorPunchOutTest\\Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\u183155\\source\\repos\\BlazorPunchOutTest\\BlazorPunchOutTest\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "BlazorPunchOutTest\\Components\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T07:38:40.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\u183155\\source\\repos\\BlazorPunchOutTest\\BlazorPunchOutTest\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "BlazorPunchOutTest\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\u183155\\source\\repos\\BlazorPunchOutTest\\BlazorPunchOutTest\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "BlazorPunchOutTest\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T07:38:21.929Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
